@@ -14,14 +14,25 @@ consider carefully what to commit to the repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Usually one logical change only has one file?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Sometimes I want to add some features but I don't want to modify the working version.
+Sometimes I and my collegue want to work on the same project but different files or 
+different modules. 
 
 How do the diagrams help you visualize the branch structure?
+The diagrams visualize the branch like a tree. I can easily find the parents node, 
+children node etc. And it is easy to track down to the branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The features of the two branches are merged. The commits of the two branches are
+shown in the log of the merged branch. 
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+The pros of automatic merging is that it is easy and fast to merge the branches. 
+ALways doing merges manually may  take too much effort and very annoying when the 
+merging logic is very simple. 
