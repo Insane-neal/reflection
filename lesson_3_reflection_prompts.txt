@@ -1,12 +1,14 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    It is safer to save the repositories on the cloud side. It is also pretty 
+    easy to share with other collabrators when the repositories are saved online. 
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    If I make any changes locally and haven't save it into a commit, automatic 
+    syncing may cover whatever I've changed.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
