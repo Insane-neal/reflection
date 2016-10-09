@@ -25,9 +25,9 @@ Keep the local branch up to date is a good habit.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I did it manually before. I didn't have a lot of experiences on  collaborating with others.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When I want to test some new features or have to change things frequently. It is more clear to do these works in a separate branch. I won't affect others' work until I finish my job.
